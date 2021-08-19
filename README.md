@@ -1,2 +1,2 @@
 # vidly-react-app
-### My First React website
+### Another milestone in the journey of React
